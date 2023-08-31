@@ -7466,6 +7466,40 @@ export default [
     ]
   },
   {
+    "countryName": "Kosovo",
+    "countryShortCode": "XK",
+    "regions": [
+      {
+        "name": "Ferizaj",
+        "shortCode": "FER"
+      },
+      {
+        "name": "Gjakova",
+        "shortCode": "GJA"
+      },
+      {
+        "name": "Gjilan",
+        "shortCode": "GJI"
+      },
+      {
+        "name": "Mitrovica",
+        "shortCode": "MIT"
+      },
+      {
+        "name": "Peja",
+        "shortCode": "PEJ"
+      },
+      {
+        "name": "Pristina",
+        "shortCode": "PRI"
+      },
+      {
+        "name": "Prizren",
+        "shortCode": "PRZ"
+      }
+    ]
+  },
+  {
     "countryName": "Kuwait",
     "countryShortCode": "KW",
     "regions": [
