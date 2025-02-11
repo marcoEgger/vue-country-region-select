@@ -1,6 +1,6 @@
 {
   "name": "@coozzy/vue-country-region-select",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "private": false,
   "scripts": {
@@ -17,13 +17,13 @@
   ],
   "main": "./dist/vueCountryRegionSelect.umd.min.js",
   "dependencies": {
-    "vue": "2.7.14"
+    "vue": "2.7.16"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.6.0",
-    "@vue/cli-plugin-eslint": "^3.0.5",
-    "@vue/cli-service": "^3.6.0",
-    "vue-template-compiler": "^2.5.17"
+    "@vue/cli-plugin-babel": "3.12.1",
+    "@vue/cli-plugin-eslint": "3.12.1",
+    "@vue/cli-service": "3.12.1",
+    "vue-template-compiler": "2.7.16"
   },
   "eslintConfig": {
     "root": true,
